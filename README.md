@@ -1,2 +1,2 @@
 # consistent-hashing
-consistent hashing with load balancing
+consistent-hashing is a consistent hashing library with virtual node, and provide load balancing.
